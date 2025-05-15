@@ -2,9 +2,9 @@
 
 💻 Full-stack developer with expertise in Python, Laravel and Vue 。
 
-## 🚀 GitHub Pages
+## 📦 Demo Link
 
-本頁已部署在 GitHub Pages：
+GitHub Pages：
 
 🔗 [https://mason5779.github.io/](https://mason5779.github.io/)
 
